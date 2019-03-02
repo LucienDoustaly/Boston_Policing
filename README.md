@@ -19,13 +19,17 @@ Pour effectuer la prédiction des crimes à Boston à partir de notre DataSet, n
 
 Dans un premier temps, nous nous sommes intéressé à la criminalité au travers des différentes heures de la journée. D'après notre graphique, le moment de la journée ou le moins de crimes a été répertorié est au alentours de 4h et 5h du matin, une tranche horaire paraissant plus ou moins logique du fait que les criminels restent des êtres humains et dorment la nuit. A l'inverse, la tranche horaire la plus affluente pour la criminalité est situé entre 16h et 18h.
 
-![Crimes par heure](./crimes_per_hour.PNG)
+![Crimes par heure](https://raw.githubusercontent.com/LucienDoustaly/Boston_Policing/master/Crimes_per_hour.PNG)
 
 ### Analyse en fonction des jours
 
 Nous avons ensuite étudié l'activité criminelle en fonction des jours de la semaine. A travers le graphique ci-dessous, nous pouvons voir que le nombre de crimes est majoritaire durant la semaine, lorsque la majorité de la population est active, qui augmente logiquement la probabilité d'un crime. Cette hypothèse peut se confirmer avec les chiffres observés durant le weekend ou l'on peut voir une activité nettement réduite.
 
-![Crimes par jour](./crimes_per_day.PNG)
+![Crimes par jour](https://raw.githubusercontent.com/LucienDoustaly/Boston_Policing/master/Crimes_per_day.PNG)
+
+On se rends aussi compte que le nombre de crimes augmente en fonction de la période estival de l'année. Ce qui est logique les gens sortent plus a cette période.
+
+![Crimes par mois](https://raw.githubusercontent.com/LucienDoustaly/Boston_Policing/master/Crimes_per_month.PNG)
 
 Nous avons voulu également étudier la criminalité pendant les jours fériés américains. On peut voir nettement que les jours fériés affecte le nombre de crimes, en particulier les fêtes comme sain
 
