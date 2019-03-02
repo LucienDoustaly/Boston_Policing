@@ -27,12 +27,11 @@ Nous avons ensuite étudié l'activité criminelle en fonction des jours de la s
 
 ![Crimes par jour](https://raw.githubusercontent.com/LucienDoustaly/Boston_Policing/master/Crimes_per_day.PNG)
 
-On se rends aussi compte que le nombre de crimes augmente en fonction de la période estival de l'année. Ce qui est logique les gens sortent plus a cette période.
+On se rends aussi compte que le nombre de crimes augmente en fonction de la période estival de l'année. Ce semble logique car les gens sortent plus a cette période de l'année.
 
 ![Crimes par mois](https://raw.githubusercontent.com/LucienDoustaly/Boston_Policing/master/Crimes_per_month.PNG)
 
-Nous avons voulu également étudier la criminalité pendant les jours fériés américains. On peut voir nettement que les jours fériés affecte le nombre de crimes, en particulier les fêtes comme sain
-
+### Prédiction des crimes
 
 ### Analyse en fonction de la position
 
