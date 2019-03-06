@@ -76,6 +76,6 @@ D'après les résultats obtenus, on observe que la criminalité est influé par 
 
 ## Collaborateurs
 
-* DOUSTALY Lucien</3
-* JOLY Axel <<<<<<<33333333
-* ROULIN Alexis <3 <3 <3
+* DOUSTALY Lucien
+* JOLY Axel
+* ROULIN Alexis
