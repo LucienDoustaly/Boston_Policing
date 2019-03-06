@@ -1,4 +1,3 @@
-
 # Data Science
 
 
@@ -33,9 +32,35 @@ On se rends aussi compte que le nombre de crimes augmente en fonction de la pér
 
 ### Prédiction des crimes
 
+Nous avons ensuite crée un modèle de prédiction afin de pouvoir anticiper un type de crime, en fonction de plusieurs facteurs: 
+* Moment qui défini le moment de la journée (matin, après-midi, soir) en fonction des heures  afin de simplifier le traitement. 
+* La zone
+* Le jour
+* Le mois
+
+![Modeler Flow](https://raw.githubusercontent.com/LucienDoustaly/Boston_Policing/master/ModelerFlow.png)
+
+![Prédiction](https://raw.githubusercontent.com/LucienDoustaly/Boston_Policing/master/Prediction.png)
+
+On peut voir que la précision de notre prédiction n'est pas acceptable (<2%), pour améliorer cette précision il faudrait créer un model avec plus de paramètres.  
+
+Il faut cependant garder en tête que l'on essaie de prévoir un comportement humain. Certains chercheurs du MIT on reussi a créer une IA qui a une précision de 43% seulement lorsqu'il s'agit de prévoir le comportement humain sur des vidéos de youtube. Ce sont des chiffres positifs quand on sait que même l’être humain, pourtant généralement aguerri par l’expérience de vie, n’anticipe la bonne interaction que 71 % du temps sur ces vidéos.
+
+Essayer de prédire des crimes semble plus compliqués car il faudrait aussi avoir des informations personelles sur la population, tel que le casier judiciaire, un bilan psychologique, les antécédents familiaux, etc...
+
+
+[Source prédiction IA MIT](https://atelier.bnpparibas/smart-city/article/l-ai-affine-prediction-comportements-humains)
+
 ### Analyse en fonction de la position
 
+D'après notre carte, on peut voir que la répartition du crime a travers Boston reste distribuée, une analyse supplémentaire répertoriant les differentes zone en fonction des crimes aurait pu être une piste d'amélioration afin de préciser cette étude. 
+
+Sur notre dashboard sous Tableau, nous pouvons voir l'évolution des crimes dans le temps avec le type de crime, son compte et son emplacement. Le dashboard développé permet une meilleure lecture des données. Seul le curseur est déplaçable pour faire évoluer son état dans le temps.
+
+
 ## Conclusion
+
+D'après les résultats obtenus, on observe que la criminalité est influé par la periode et le lieu, ou l'on peut remarquer que celles-ci correspondent à des tranches horaires et zone où la population dans les rues est élevé. Finalement, une solution pour augmenter sa propre sécurité serait d'éviter les heures affluentes.
 
 ## Technologies
 
@@ -44,12 +69,13 @@ On se rends aussi compte que le nombre de crimes augmente en fonction de la pér
 
 ## Annexes
 
-*Lien Tableau à inclure ici*
+[Lien Tableau](https://public.tableau.com/profile/roulin#!/)
 
-*Lien Jupyter notebook à inclure ici*
+[Lien Jupyter notebook](https://github.com/LucienDoustaly/Boston_Policing/blob/master/Predictive-Policing.ipynb)
+
 
 ## Collaborateurs
 
-* DOUSTALY Lucien
-* JOLY Axel 
-* ROULIN Alexis
+* DOUSTALY Lucien</3
+* JOLY Axel <<<<<<<33333333
+* ROULIN Alexis <3 <3 <3
