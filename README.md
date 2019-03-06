@@ -12,7 +12,7 @@ A travers les différentes problématiques liés a la criminalité, nous avons c
 Tout d'abord il a été crucial de comprendre les données présentent dans le DataSet. Ensuite, nous avons opter pour un logiciel de Data Visualisation adapté à notre volumétrie de données, sa gratuité mais aussi pour son partage de dashboard en ligne: Tableau. 
 De plus, nous utilisons Python pour traiter les données en amont: effectuer les calculs ou requêtes dans notre DataSet.
 
-Pour effectuer la prédiction des crimes à Boston à partir de notre DataSet, nous avons opter pour le modèle de régression **(PK? manque de détail)**. Pour cela, nous utilisons les données existante de temps pour pouvoir appréhender le futur.
+Pour effectuer la prédiction des crimes à Boston à partir de notre DataSet, nous avons opter pour le modèle de régression. Pour cela, nous utilisons les données existante de temps pour pouvoir appréhender le futur.
 
 ### Analyse en fonction des heures
 
